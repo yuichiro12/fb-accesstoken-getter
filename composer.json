@@ -1,0 +1,7 @@
+{
+    "name": "yuichiro12/fb-accesstoken-getter",
+    "require": {
+        "facebook/graph-sdk" : "~5.0",
+        "facebook/php-ads-sdk": "2.8.*"
+    }
+}
